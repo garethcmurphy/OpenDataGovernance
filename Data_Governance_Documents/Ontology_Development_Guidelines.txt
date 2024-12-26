@@ -1,0 +1,5 @@
+Document Title: Ontology Development Guidelines
+
+Purpose: This document provides rules for aligning datasets with standardized vocabularies.
+
+[Placeholder Content: Describe the detailed content and purpose of this document here]

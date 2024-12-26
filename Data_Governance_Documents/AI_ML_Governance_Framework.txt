@@ -1,0 +1,5 @@
+Document Title: AI ML Governance Framework
+
+Purpose: This document details responsible AI use in research, addressing data privacy, bias, and explainability.
+
+[Placeholder Content: Describe the detailed content and purpose of this document here]

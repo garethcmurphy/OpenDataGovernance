@@ -1,0 +1,5 @@
+Document Title: Training Documentation
+
+Purpose: This document tracks compliance with mandatory training (e.g., GLP, biosafety, or data integrity).
+
+[Placeholder Content: Describe the detailed content and purpose of this document here]
